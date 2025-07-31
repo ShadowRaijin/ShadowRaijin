@@ -1,7 +1,5 @@
 <h1 align="center">🌀 Vipin M — ShadowRaijin</h1>
 
-<h1 align="center">🌀 Vipin M — ShadowRaijin</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohit-kumar-sen/Sharingan-Loader/main/sharingan.gif" width="260" alt="Sharingan Animated Header">
 </p>
