@@ -1,7 +1,8 @@
 <h1 align="center">🌀 Vipin M — ShadowRaijin</h1>
-<h3 align="center" style="color:#ff1e1e; text-shadow: 0 0 8px #ff1e1e;">
-  🔴 Cybersecurity Analyst • Offensive Security Learner • Cybersecurity Explorer 🔴
-</h3>
+
+<p align="center">
+  <img src="https://your-image-url.com/sharingan-header.gif" alt="Cybersecurity Analyst • Offensive Security Learner • Cybersecurity Explorer" width="600"/>
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/n2VZ5cLZKe8AAAAd/naruto-sage-mode.gif" width="160"/>
