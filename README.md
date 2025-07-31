@@ -1,14 +1,6 @@
 <h1 align="center">🌀 Vipin M — ShadowRaijin</h1>
 <h3 align="center">Cybersecurity Analyst • Offensive Security Learner • Cybersecurity Explorer</h3>
 
-<style>
-@keyframes pulse {
-  0% { text-shadow: 0 0 5px #e60000; }
-  50% { text-shadow: 0 0 20px #e60000; }
-  100% { text-shadow: 0 0 5px #e60000; }
-}
-</style>
-
 <p align="center">
   <img src="https://media.tenor.com/n2VZ5cLZKe8AAAAd/naruto-sage-mode.gif" width="160"/>
 </p>
