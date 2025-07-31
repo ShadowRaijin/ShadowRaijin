@@ -17,7 +17,7 @@ Driven by a deep curiosity and a passion for continuous improvement, I deconstru
 Where others see obstacles, I see opportunities to innovate and evolve.
 
 ### 📌 Key Interests:
-- Pentesting (Web, Network, Mobile, API, Cloud)
+- Pentesting (Web, Network, Mobile, API, Cloud etc)
 - Capture The Flag (CTF) Challenges
 - OSINT & Vulnerability Research
 - Python & Bash Scripting
@@ -28,7 +28,7 @@ Where others see obstacles, I see opportunities to innovate and evolve.
 
 | Category        | Tools & Languages                                                   |
 |----------------|----------------------------------------------------------------------|
-| 🔐 Pentesting   | Burp Suite · OWASP ZAP · SQLMap · Nmap · Nikto                      |
+| 🔐 Pentesting   | Burp Suite · OWASP ZAP · SQLMap · Nmap · Nikto etc                  |
 | 🔍 Recon & OSINT| theHarvester · Shodan · Google Dorks · Subfinder                    |
 | 💻 Scripting    | Python · Bash                                                       |
 | ⚙️ Environments | Kali Linux · Parrot OS · Windows · Docker · GitHub Actions          |
