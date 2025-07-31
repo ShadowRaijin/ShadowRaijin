@@ -1,12 +1,6 @@
 <h1 align="center">🌀 Vipin M — ShadowRaijin</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohit-kumar-sen/Sharingan-Loader/main/sharingan.gif" width="260" alt="Sharingan Animated Header">
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/n2VZ5cLZKe8AAAAd/naruto-sage-mode.gif" width="160"/>
-</p>
+<h3 align="center">Cybersecurity Analyst • Offensive Security Learner • Cybersecurity Explorer</h3>
 
 
 ---
