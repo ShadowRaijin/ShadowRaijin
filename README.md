@@ -1,7 +1,5 @@
 <h1 align="center">🌀 Vipin M — ShadowRaijin</h1>
-<span style="color:#e60000; font-weight:bold; animation: pulse 2s infinite;">
-  👁 Cybersecurity Analyst • Offensive Security Learner • Cybersecurity Explorer
-</span>
+<h3 align="center">Cybersecurity Analyst • Offensive Security Learner • Cybersecurity Explorer</h3>
 
 <style>
 @keyframes pulse {
